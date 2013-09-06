@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Machiko Yasuda -- Site Maker --  http://twitter.com/machikoyasuda
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    Jekyll static site generator
+    Sass 
+    Coffeescript 
+    HTML5 ★ Boilerplate 
+    Normalize.css 
+    jQuery, Modernizr 
+
