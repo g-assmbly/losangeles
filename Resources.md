@@ -37,6 +37,7 @@ HTML + CSS
 - [Sass Color Functions](http://robots.thoughtbot.com/post/12974565313/controlling-color-with-sass-color-functions)
 - [7 Highly Effective Media Queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
 - [Bootstrap Tutorial for Complex Designs](http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/)
+- [Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 
 JavaScript
 - [JS Cheat Sheets](http://overapi.com/javascript/)
@@ -161,6 +162,13 @@ Ruby on Rails
 - [Ira's Gem Cheatsheet](https://github.com/ga-students/WDI_LA_2/blob/master/cheatsheets/ruby-gems.md)
 - [GitHub's Guide To Modeling User Session](https://github.com/blog/1661-modeling-your-app-s-user-session?utm_source=rubyweekly&utm_medium=email)
 - [Setting up RoR Dev Env on Mavericks](http://dean.io/setting-up-a-ruby-on-rails-development-environment-on-mavericks/?utm_source=rubyweekly&utm_medium=email)
+- [Figaro Gem: Keeping Passwords/Cred Private Upon Pushing](https://github.com/laserlemon/figaro)
+- [OmniAuth + Rails 4 + MongoDB Tutorial](http://www.ultrasaurus.com/sarahblog/2013/10/rails-4-twitter-omniauth-with-mongodb/)
+- [Stripe + Rails Tutorial](https://stripe.com/docs/checkout/guides/rails)
+- [CanCan Gem: Permissions implementation](https://github.com/ryanb/cancan/wiki/defining-abilities)
+- [Rubular: Ruby regex editor](http://www.rubular.com/)
+- [Rails 4.0.1 Release](http://weblog.rubyonrails.org/2013/11/1/Rails-4-0-1-has-been-released/)
+- [Rails Console Tips](http://37signals.com/svn/posts/3176-three-quick-rails-console-tips)
 
 Ember
 - [EmberJS](http://emberjs.com/)
@@ -190,12 +198,16 @@ Tools
 - [Test Password Security](https://howsecureismypassword.net/)
 - [Anvil for Mac](http://anvilformac.com/)
 - [Lightbeam](http://thenextweb.com/apps/2013/10/25/mozillas-lightbeam-firefox-add-lets-users-visualize-sites-tracking/)
+- [BentoBox: Tools Galore for Developers](http://www.bentobox.io/)
 
 Tutorials/Training
 - [Tree House](http://teamtreehouse.com/)
 - [General Assembly Dash](https://dash.generalassemb.ly/)
 - [Programming for Musicians](https://www.coursera.org/course/chuck101)
 - [List of Books Online](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development)
+- [RubyKoans](http://rubykoans.com/)
+- [CodeKata](http://codekata.pragprog.com/)
+- [Rails Girls Recommended Training](http://railsgirls.com/materials)
 
 Newsletters
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
@@ -252,6 +264,8 @@ Web Dev Profession/VCs/Startup Advice
 - [LA's Tech Scene Outpacing Hollywood](http://www.fastcompany.com/3020056/analysis-finds-las-tech-scene-outgrowing-hollywood)
 - [Built in LA](http://www.builtinla.com/companies)
 - [Semi-Annual LA Startup Industry Report 2013](https://s3.amazonaws.com/uploads.hipchat.com/39979/482046/1xsuNiuiwGM7IQO/LA-Startup-Industry-Report-2013.pdf)
+- [Why I Won't Sign Your NDA](http://blog.jpl-consulting.com/2012/04/why-i-wont-sign-your-nda/)
+- [Why Investors Won't Sign Your NDA](http://www.forbes.com/sites/wilschroter/2013/08/22/why-investors-dont-sign-ndas/)
 
 Databases
 - [Mongoid Docs](http://mongoid.org/en/mongoid/docs/documents.html)
@@ -261,6 +275,7 @@ Databases
 - [SQL Primary and Foreign Keys](http://www.youtube.com/watch?v=KBYU5bAR0_g&feature=youtu.be)
 - [The Genius and Folly of MongoDB- Bryce Nyeggen](http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/)
 - [Blog: Mongo is to Databases what Rails was to Frameworks](http://www.railstips.org/blog/archives/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks/)
+- [Heroku-Mongo-Sync: Syncs Local and Production Databases](https://github.com/marcofognog/heroku-mongo-sync)
 
 WebSockets
 - [WebSockets](http://blog.teamtreehouse.com/an-introduction-to-websockets?utm_campaign=an-introduction-to-websockets&utm_source=twitter&utm_content=buffer92266&utm_medium=twitter)
@@ -289,8 +304,8 @@ Mark Down
 Slim
 - [Slim Templating Lang](http://slim-lang.com/about.html)
 
-
-
+Mapping
+- [Google Maps Geocoding Service](https://developers.google.com/maps/documentation/javascript/geocoding)
 
 
 
