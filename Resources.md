@@ -14,6 +14,7 @@ Command line + Sublime + Git
 - [Pro Git Book](http://git-scm.com/book)
 - [Forking a Repo](https://help.github.com/articles/fork-a-repo)
 - [Normalize-Rails: Integrates normalize.css with the rails asset pipeline.](https://github.com/markmcconachie/normalize-rails)
+- [Successful Git Branching with Git Flow] (http://www.youtube.com/watch?v=qKLz4CNRBb0&feature=youtu.be)
 
 HTML + CSS
 - [HTML5 Boilerplate](http://html5boilerplate.com/)
@@ -54,6 +55,11 @@ JavaScript
 - [Detects Javascript Errors](http://jshint.com/?newdesign)
 - [JavaScript Frameworks Resources and Tutorials](http://resrc.io/list/18/javascript-frameworks/)
 - [Code Climate for Javascript](http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/?utm_source=javascriptweekly&utm_medium=email)
+- [Airbnb Javascript Style Guide] (https://github.com/airbnb/javascript?utm_source=javascriptweekly&utm_medium=email)
+
+Parallax
+- [Parallax Scrolling Tutorial](http://net.tutsplus.com/tutorials/html-css-techniques/simple-parallax-scrolling-technique/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29)
+- [Building a Parallax Scrolling Game with Pixi.js](http://flippinawesome.org/2013/11/04/building-a-parallax-scrolling-game-with-pixi-js/)
 
 HTML/CSS/Javascript Practice
 - [Random Generator of HTML/CSS/JS Exercises](http://timevko.com/practice#)
@@ -113,6 +119,10 @@ AngularJS
 - [Facebook Login with Angular](http://davidchang.github.io/angular-facebook-utils/)
 - [Angular Promises Explained in Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html?utm_source=javascriptweekly&utm_medium=email)
 - [Angular Workflow](http://www.rtorr.com/an-angular-workflow-part-1/?utm_source=javascriptweekly&utm_medium=email)
+- [The Future of AngularJS Slideshow by](https://docs.google.com/presentation/d/17F8bnBvEtf8Ek0Yr__IRXpi6ntPi8gCZItqidqhvL6g/edit#slide=id.p)
+- [OCAngularJS Meetup Future of AngularJS Presentation](https://www.youtube.com/watch?v=ztw28-zZsI8)
+- [Little Known Code Directives of AngularJS](http://codetunes.com/2013/little-known-angular-directives/?utm_source=javascriptweekly&utm_medium=email)
+- [Column: Yeoman Generator Built for Hackathons](http://movefastbreakthings.ca/column-a-yeoman-generator-built-for-hackathons/)
 
 Thin 
 - [Thin Server](http://code.macournoyer.com/thin/)
@@ -174,6 +184,7 @@ Ember
 - [EmberJS](http://emberjs.com/)
 - [EmberFire](https://www.firebase.com/blog/2013-10-22-firebase-bindings-for-ember.html)
 - [Angular Dev Trying Ember](http://floatleft.com/notebook/taking-ember-for-a-spin/?utm_source=javascriptweekly&utm_medium=email)
+- [In-depth Intro to Ember](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/?utm_source=javascriptweekly&utm_medium=email)
 
 Curl
 - [Curl Examples](http://www.thegeekstuff.com/2012/04/curl-examples/)
@@ -199,6 +210,7 @@ Tools
 - [Anvil for Mac](http://anvilformac.com/)
 - [Lightbeam](http://thenextweb.com/apps/2013/10/25/mozillas-lightbeam-firefox-add-lets-users-visualize-sites-tracking/)
 - [BentoBox: Tools Galore for Developers](http://www.bentobox.io/)
+- [Domain Groovy- Namestorming Domains](http://domaingroovy.com/)
 
 Tutorials/Training
 - [Tree House](http://teamtreehouse.com/)
@@ -214,6 +226,7 @@ Newsletters
 - [Javascript Weekly](http://javascriptweekly.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
 - [html5 weekly](http://html5weekly.com/)
+- [Postgres Weekly] (http://postgresweekly.com/)
 
 Meetup Groups
 - [LA Ruby](http://www.meetup.com/laruby/)
@@ -266,13 +279,13 @@ Web Dev Profession/VCs/Startup Advice
 - [Semi-Annual LA Startup Industry Report 2013](https://s3.amazonaws.com/uploads.hipchat.com/39979/482046/1xsuNiuiwGM7IQO/LA-Startup-Industry-Report-2013.pdf)
 - [Why I Won't Sign Your NDA](http://blog.jpl-consulting.com/2012/04/why-i-wont-sign-your-nda/)
 - [Why Investors Won't Sign Your NDA](http://www.forbes.com/sites/wilschroter/2013/08/22/why-investors-dont-sign-ndas/)
+- [11 Things I Wish I Knew When I Started My Busines](https://medium.com/i-m-h-o/3dc264023df5)
 
-Databases
+MongoDB
 - [Mongoid Docs](http://mongoid.org/en/mongoid/docs/documents.html)
 - [MongoDB](http://www.mongodb.com/document-databases)
 - [MongoDB and MongoID Presentation at RubyJax 2010](https://vimeo.com/9864311)
 - [Foreign Keys Wikipedia](http://en.wikipedia.org/wiki/Foreign_key)
-- [SQL Primary and Foreign Keys](http://www.youtube.com/watch?v=KBYU5bAR0_g&feature=youtu.be)
 - [The Genius and Folly of MongoDB- Bryce Nyeggen](http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/)
 - [Blog: Mongo is to Databases what Rails was to Frameworks](http://www.railstips.org/blog/archives/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks/)
 - [Heroku-Mongo-Sync: Syncs Local and Production Databases](https://github.com/marcofognog/heroku-mongo-sync)
@@ -307,5 +320,11 @@ Slim
 Mapping
 - [Google Maps Geocoding Service](https://developers.google.com/maps/documentation/javascript/geocoding)
 
+SQL
+- [SQL Intro](http://www.w3schools.com/sql/)
+- [SQL Commands](http://www.postgresql.org/docs/9.3/static/sql-commands.html)
+- [SQL Select](http://www.postgresql.org/docs/9.3/static/sql-select.html)
+- [SQL Primary and Foreign Keys](http://www.youtube.com/watch?v=KBYU5bAR0_g&feature=youtu.be)
 
-
+ActiveRecord
+- [Rails Guide Associations](http://guides.rubyonrails.org/association_basics.html)
