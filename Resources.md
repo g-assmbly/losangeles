@@ -15,6 +15,10 @@ Command line + Sublime + Git
 - [Forking a Repo](https://help.github.com/articles/fork-a-repo)
 - [Normalize-Rails: Integrates normalize.css with the rails asset pipeline.](https://github.com/markmcconachie/normalize-rails)
 - [Successful Git Branching with Git Flow] (http://www.youtube.com/watch?v=qKLz4CNRBb0&feature=youtu.be)
+- [Persist Rails or IRB Console Command History after Exit](http://www.wetware.co.nz/2010/09/how-to-persist-rails-or-irb-console-command-history-after-exit/)
+- [Zenhub](http://betali.st/startups/zenhub)
+- [Efficiency with Sublime Text and Ruby](https://thunderboltlabs.com/blog/2013/11/19/efficiency-with-sublime-text-and-ruby/?utm_source=rubyweekly&utm_medium=email)
+
 
 HTML + CSS
 - [HTML5 Boilerplate](http://html5boilerplate.com/)
@@ -39,6 +43,12 @@ HTML + CSS
 - [7 Highly Effective Media Queries](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
 - [Bootstrap Tutorial for Complex Designs](http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/)
 - [Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+- [Twitter Bootstrap 3](http://www.sitepoint.com/twitter-bootstrap-3-javascript-components/?utm_source=javascriptweekly&utm_medium=email)
+- [Making Forms Fabulous with HTML5](http://www.html5rocks.com/en/tutorials/forms/html5forms/)
+- [Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html?utm_source=html5weekly&utm_medium=email)
+- [CSS3](Box Model Behaviour)
+- [Brunch.io HTML5 applications made easy](http://brunch.io/)
+- [Bootstrap 3.0.3 Released](http://blog.getbootstrap.com/2013/12/05/bootstrap-3-0-3-released/?utm_source=html5weekly&utm_medium=email)
 
 JavaScript
 - [JS Cheat Sheets](http://overapi.com/javascript/)
@@ -56,6 +66,38 @@ JavaScript
 - [JavaScript Frameworks Resources and Tutorials](http://resrc.io/list/18/javascript-frameworks/)
 - [Code Climate for Javascript](http://blog.codeclimate.com/blog/2013/10/24/code-climate-for-javascript/?utm_source=javascriptweekly&utm_medium=email)
 - [Airbnb Javascript Style Guide] (https://github.com/airbnb/javascript?utm_source=javascriptweekly&utm_medium=email)
+- [An Introduction to DOM Events] (http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/?utm_source=javascriptweekly&utm_medium=email)
+- [Best Javascript Frameworks 2013-2014](http://jonathanmh.com/best-javascript-mvc-frameworks-2013-2014/)
+- [Screen Scraping](https://www.digitalocean.com/community/articles/how-to-use-node-js-request-and-cheerio-to-set-up-simple-web-scraping)
+- [Apple's iOS7 Native JavaScript Bridge](http://strongloop.com/strongblog/apples-ios7-native-javascript-bridge/)
+- [An Introduction to JavaScript](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/)
+- [Intro to DOM Events](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/?utm_source=html5weekly&utm_medium=email)
+- [MeteorJS](http://www.meteor.com/main)
+- [Javascript Turns 18](http://resin.io/happy-18th-birthday-javascript/?utm_source=javascriptweekly&utm_medium=email)
+- [Demystifying This](http://flippinawesome.org/2013/12/09/demystifying-this-in-javascript/?utm_source=javascriptweekly&utm_medium=email)
+
+Coffeescript
+- [Why You Should Learn Coffeescript](http://net.tutsplus.com/articles/interviews/should-you-learn-coffeescript/)
+
+Node
+- [Nodeup Podcast](http://nodeup.com/)
+- [Why I Chose Node over RoR](https://medium.com/what-i-learned-building/905b0d7d15c3)
+- [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
+- [Why The Hell Would I use Node.js](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+- [AWS for Javascript on Node](http://aws.amazon.com/sdkfornodejs/)
+- [Node School](http://nodeschool.io/)
+- [Why We Use Node](http://www.pandastrike.com/posts/20131008-why-we-use-node)
+- [Form Validation IN Node JS with Express Validator](http://blog.ijasoneverett.com/2013/04/form-validation-in-node-js-with-express-validator/)
+- [Screen Scraping with NodeJS](http://net.tutsplus.com/tutorials/javascript-ajax/web-scraping-with-node-js/)
+- [Node-Phantom](https://github.com/alexscheelmeyer/node-phantom)
+- [Easy Node Authentication](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local?utm_source=javascriptweekly&utm_medium=email)
+
+JQuery
+- [API Documentation](http://api.jquery.com/)
+- [How JQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
+- [50 Awesome JQuery plugins](http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/)
+- [Difference BTWN this, this, and this](http://www.9bitstudios.com/2013/03/jquery-whats-the-difference-between-this-this-and-this/)
+- [Learning JQuery with St Fighter and Hadoukens](http://www.thinkful.com/learn/intro-to-jquery?utm_source=javascriptweekly&utm_medium=email)
 
 Parallax
 - [Parallax Scrolling Tutorial](http://net.tutsplus.com/tutorials/html-css-techniques/simple-parallax-scrolling-technique/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nettuts+%28Nettuts%2B%29)
@@ -73,6 +115,7 @@ Color Pickers + Fonts + Lorem Ipsum + Favicons
 - [Meet The Ipsums](http://meettheipsums.com/)
 - [Da Fonts- Free Fonts](http://www.dafont.com/)
 - [Faviconer](http://www.faviconer.com/)
+- [Fontawesome.io Icons](http://fontawesome.io/icons/)
 
 Browser + Device Testing
 - [Browserstack (multiple browsers/devices)](http://www.browserstack.com/)
@@ -83,9 +126,13 @@ Agile + Scrum
 - [Agile Manifesto](http://agilemanifesto.org/principles.html)
 - [Scrum Guide](https://www.scrum.org/Portals/0/Documents/Scrum%20Guides/2013/Scrum-Guide.pdf#zoom=100)
 - [Lack of Agile & Healthcare.gov](http://qz.com/139377/why-healthcare-gov-went-wrong-a-lack-of-agile/)
+- [What is Kanban](http://www.kanbanblog.com/explained/)
+- [Kanban Dev Ocersimplified](http://www.agileproductdesign.com/blog/2009/kanban_over_simplified.html)
 
 Best Practices + Motivation
 - [Teaching Yourself To Code For The Web](http://veltman.tumblr.com/post/50335073356/teaching-yourself-to-code-for-the-web)
+- [Things I Wish Someone Told Me When I was Learning How to Code](https://medium.com/learning-to-code/565fc9dcb329)
+- [Productivity Hack](http://www.quora.com/Productivity/As-a-startup-CEO-what-is-your-favorite-productivity-hack)
 
 AngularJS
 - [silentworks' Curated List of Angular Resources](https://kippt.com/silentworks/angularjs)
@@ -123,6 +170,20 @@ AngularJS
 - [OCAngularJS Meetup Future of AngularJS Presentation](https://www.youtube.com/watch?v=ztw28-zZsI8)
 - [Little Known Code Directives of AngularJS](http://codetunes.com/2013/little-known-angular-directives/?utm_source=javascriptweekly&utm_medium=email)
 - [Column: Yeoman Generator Built for Hackathons](http://movefastbreakthings.ca/column-a-yeoman-generator-built-for-hackathons/)
+- [AngularJS 1.2.0: Timely Delivery](http://blog.angularjs.org/2013/11/angularjs-120-timely-delivery.html?utm_source=javascriptweekly&utm_medium=email)
+- [Breaking Open: AngularJS](https://thenewcircle.com/s/post/1465/breaking_open_angularjs?utm_source=javascriptweekly&utm_medium=email)
+- [How to Integrate AngularJS with Rails 4](https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4)
+- [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
+- [AWS JS SDK- The Canonical Angular Guide](http://www.ng-newsletter.com/posts/aws-js-sdk.html)
+- [10 Reasons Why You Should Use AngularJS] (http://www.sitepoint.com/10-reasons-use-angularjs/?utm_source=ng-newsletter&utm_campaign=a4f17a4a45-AngularJS_Week_of_12_0312_2_2013&utm_medium=email&utm_term=0_fa61364f13-a4f17a4a45-94391869)
+- [Eliminating Code Smell with Grunt](http://flippinawesome.org/2013/12/02/eliminating-code-smell-with-grunt/?utm_source=javascriptweekly&utm_medium=email)
+- [Music Player in Angular] (http://blog.jetboystudio.com/articles/angular-music-player/?utm_source=javascriptweekly&utm_medium=email)
+- [Beginner's Guide to Angular and Rails](https://www.honeybadger.io/blog/2013/12/11/beginners-guide-to-angular-js-rails)
+
+HandlebarsJS
+- [Handbars.js](http://handlebarsjs.com/)
+- [Handlebars.js Tutorial Series](http://jaskokoyn.com/handlebars-js-tutorial-series/)
+- [Handlebars.js Tutorial](http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/)
 
 Thin 
 - [Thin Server](http://code.macournoyer.com/thin/)
@@ -179,12 +240,31 @@ Ruby on Rails
 - [Rubular: Ruby regex editor](http://www.rubular.com/)
 - [Rails 4.0.1 Release](http://weblog.rubyonrails.org/2013/11/1/Rails-4-0-1-has-been-released/)
 - [Rails Console Tips](http://37signals.com/svn/posts/3176-three-quick-rails-console-tips)
+- [Build a Port Scanner in Ruby](http://www.sitepoint.com/build-a-port-scanner-in-ruby/)
+- [Building Awesome Rails APIs](http://collectiveidea.com/blog/archives/2013/06/13/building-awesome-rails-apis-part-1/)
+- [API with Ruby on Rails- Useful Tricks](http://railsware.com/blog/2013/04/08/api-with-ruby-on-rails-useful-tricks/)
+- [RubyMotion](http://www.rubymotion.com/)
+- [Simple Search Tutorial](https://we.riseup.net/rails/simple-search-tutorial)
+- [How to build a simple search form with RoR](http://www.jorgecoca.com/articles/how-to-build-a-simple-search-form-with-ruby-on-rails)
+- [elasticsearch gem](http://adventuresincoding.com/2012/05/full-text-search-in-rails-using-elasticsearch)
+- [List of Ruby Web Frameworks](http://vemod.net/list-of-ruby-web-frameworks)
+- [Tips for Boosting Productivity](http://www.quora.com/What-are-some-tips-for-boosting-my-productivity-with-Ruby-on-Rails/answer/Lee-Edwards)
+- [Multiple File Upload- Daniel Archer](http://dja.roon.io/rails-4-multiple-image-file-uploads-with-paperclip-s3-direct-upload)
+- [Simple AUthorization in Ruby on Rails apps](http://www.elabs.se/blog/52-simple-authorization-in-ruby-on-rails-apps)
+- [Rails 3.2.16 and 4.0.2 Released](http://weblog.rubyonrails.org/2013/12/3/Rails_3_2_16_and_4_0_2_have_been_released/)
+- [Reading the Ruby Source](http://pivotallabs.com/reading-the-ruby-source/)
+- [Sharing Rails Sesions with Non Ruby Apps](http://matt.aimonetti.net/posts/2013/11/30/sharing-rails-sessions-with-non-ruby-apps/)
 
 Ember
 - [EmberJS](http://emberjs.com/)
 - [EmberFire](https://www.firebase.com/blog/2013-10-22-firebase-bindings-for-ember.html)
 - [Angular Dev Trying Ember](http://floatleft.com/notebook/taking-ember-for-a-spin/?utm_source=javascriptweekly&utm_medium=email)
 - [In-depth Intro to Ember](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/?utm_source=javascriptweekly&utm_medium=email)
+- [Ember.js Concepts for Rails Devs](http://matthewlehner.net/ember-js-concepts-for-rails-devs/)
+- [Rails and EmberJS](http://www.devmynd.com/blog/2013-3-rails-ember-js)
+- [Building Web Apps with Ember.js and Ruby On Rails](https://vimeo.com/78847391?utm_medium=email&utm_source=rubyweekly)
+- [Ember.js in 5 Minutes](http://matthewlehner.net/get-started-with-ember-js-in-5-minutes/)
+- [Ember vs Angular- Templates](http://pivotallabs.com/ember-vs-angular-templates/)
 
 Curl
 - [Curl Examples](http://www.thegeekstuff.com/2012/04/curl-examples/)
@@ -211,6 +291,17 @@ Tools
 - [Lightbeam](http://thenextweb.com/apps/2013/10/25/mozillas-lightbeam-firefox-add-lets-users-visualize-sites-tracking/)
 - [BentoBox: Tools Galore for Developers](http://www.bentobox.io/)
 - [Domain Groovy- Namestorming Domains](http://domaingroovy.com/)
+- [Know When to Use CDN](http://www.kendoui.com/blogs/teamblog/posts/13-11-07/know-when-to-cdn.aspx?utm_source=javascriptweekly&utm_medium=email)
+- [Friendco.de- Real Time Collabos](https://friendco.de/)
+- [Use a Google Spreadsheet as you JSON backend](https://coderwall.com/p/duapqq)
+- [Hacking Your Home With Ruby (APIs)](http://www.youtube.com/watch?v=BeyTsdkItg4)
+- [Phrasing- Simple Ruby on Rails Content Editing](http://www.infinum.co/the-capsized-eight/articles/simple-ruby-on-rails-content-editing?utm_source=rubyweekly&utm_medium=email)
+- [Swipe.js](http://swipejs.com/)
+- [Sidekiq gem](http://railscasts.com/episodes/366-sidekiq)
+- [PJAX](https://github.com/defunkt/jquery-pjax)
+- [Whistle Login](http://popdevelop.com/mmhw/)
+- [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+- [Using Terminal from DevTools](http://www.html5rocks.com/en/tutorials/developertools/devtools-terminal/)
 
 Tutorials/Training
 - [Tree House](http://teamtreehouse.com/)
@@ -220,6 +311,7 @@ Tutorials/Training
 - [RubyKoans](http://rubykoans.com/)
 - [CodeKata](http://codekata.pragprog.com/)
 - [Rails Girls Recommended Training](http://railsgirls.com/materials)
+- [Regex Tuesdays](http://callumacrae.github.io/regex-tuesday/)
 
 Newsletters
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
@@ -246,6 +338,7 @@ UX/Web Design
 - [Blog Opinion- Mobile First Is Dead](http://metropoly.co.uk/mobile/mobile-first-is-dead/)
 - [Secret to Building the Right Product](https://medium.com/product-design/70e9a4839adf)
 - [Inside Google Ventures Design Sprint](http://techcrunch.com/2013/10/23/inside-a-google-ventures-design-sprint/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
+- [Why Your E Commerce Should be More Like Searss](http://qz.com/156577/why-your-e-commerce-website-should-be-more-like-searss/)
 
 CoffeeScript
 - [Carbon5 Intro to Coffeescript](http://coffeescript.carbonfive.com/)
@@ -280,6 +373,8 @@ Web Dev Profession/VCs/Startup Advice
 - [Why I Won't Sign Your NDA](http://blog.jpl-consulting.com/2012/04/why-i-wont-sign-your-nda/)
 - [Why Investors Won't Sign Your NDA](http://www.forbes.com/sites/wilschroter/2013/08/22/why-investors-dont-sign-ndas/)
 - [11 Things I Wish I Knew When I Started My Busines](https://medium.com/i-m-h-o/3dc264023df5)
+- [No I will Not Hack on Your Codebase for Free](http://hownottohireadeveloper.blogspot.co.uk/2013/11/no-i-will-not-hack-on-your-codebase-for-free.html)
+- [10 Best Practices from Top Coders at Google, Pinterest, and More](http://venturebeat.com/2013/11/06/10-best-practices-from-top-coders-at-google-pinterest-more/#comments)
 
 MongoDB
 - [Mongoid Docs](http://mongoid.org/en/mongoid/docs/documents.html)
@@ -289,6 +384,7 @@ MongoDB
 - [The Genius and Folly of MongoDB- Bryce Nyeggen](http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/)
 - [Blog: Mongo is to Databases what Rails was to Frameworks](http://www.railstips.org/blog/archives/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks/)
 - [Heroku-Mongo-Sync: Syncs Local and Production Databases](https://github.com/marcofognog/heroku-mongo-sync)
+- [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
 WebSockets
 - [WebSockets](http://blog.teamtreehouse.com/an-introduction-to-websockets?utm_campaign=an-introduction-to-websockets&utm_source=twitter&utm_content=buffer92266&utm_medium=twitter)
@@ -313,6 +409,7 @@ Open Source
 Mark Down
 - [Daring Fireball- Intro to Markdown](http://daringfireball.net/projects/markdown/)
 - [GitHub-Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+- [Markdown by default](http://pivotallabs.com/markdown-by-default/)
 
 Slim
 - [Slim Templating Lang](http://slim-lang.com/about.html)
@@ -320,11 +417,78 @@ Slim
 Mapping
 - [Google Maps Geocoding Service](https://developers.google.com/maps/documentation/javascript/geocoding)
 
-SQL
+SQL/PostgreSQL
 - [SQL Intro](http://www.w3schools.com/sql/)
 - [SQL Commands](http://www.postgresql.org/docs/9.3/static/sql-commands.html)
 - [SQL Select](http://www.postgresql.org/docs/9.3/static/sql-select.html)
 - [SQL Primary and Foreign Keys](http://www.youtube.com/watch?v=KBYU5bAR0_g&feature=youtu.be)
+- [PostgreSQL WITH](http://www.tutorialspoint.com/postgresql/postgresql_with_clause.htm)
+- [Using JavaScript in PostgreSQL](http://blog.endpoint.com/2013/11/using-javascript-in-postgresql.html?utm_source=postgresweekly&utm_medium=email)
+- [Copying Rows Between PostgreSQL Databases](http://blog.endpoint.com/2013/11/copying-rows-between-postgresql.html?utm_source=postgresweekly&utm_medium=email)
+- [PGExercises](http://pgexercises.com/index.html)
 
 ActiveRecord
 - [Rails Guide Associations](http://guides.rubyonrails.org/association_basics.html)
+
+Testing
+- [Rails for Testing Zombies- Code School](https://www.codeschool.com/courses/rails-testing-for-zombies)
+- [Testing with RSPEC- Code School](https://www.codeschool.com/courses/testing-with-rspec)
+- [RSPEC vs Cucumber](http://stackoverflow.com/questions/11762245/whats-the-difference-between-rspec-and-cucumber)
+- [RSPEC Expectations- Ruby Doc](http://rubydoc.info/gems/rspec-expectations/file/README.md#Types_classes)
+- [Relish App- RSPEC Docs](https://www.relishapp.com/rspec/rspec-core/docs)
+- [RSPEC TextMate Bundle](https://sublime.wbond.net/packages/RSpec%20(snippets%20and%20syntax))
+- [Factory Girl- What is the Purpose- StackOverflow](http://stackoverflow.com/questions/5183975/factory-girl-whats-the-purpose)
+- [SimpleCov](https://github.com/colszowka/simplecov)
+- [11 Steps to Make Your RSPEC Awesome](http://railsadventures.wordpress.com/2013/09/25/11-steps-to-make-your-rspec-specs-awesome/?utm_source=rubyweekly&utm_medium=email)
+- [BDD Dan North](http://dannorth.net/introducing-bdd/)
+- [Cucumber](http://cukes.info/)
+- [Mocha- Javascript testing framework on Node](http://visionmedia.github.io/mocha/)
+- [Jasmine](http://pivotal.github.io/jasmine/)
+- [Karma- Javascript Test Runner](http://karma-runner.github.io/0.10/index.html)
+- [Configuring database_cleaner with Rails, Rspec, Capybara, and Selenium](http://devblog.avdi.org/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/)
+- [Selenium for Chrome](https://code.google.com/p/selenium/wiki/ChromeDriver)
+- [BDD and Database Design](http://www.quora.com/Behavior-Driven-Development-BDD/In-practicing-BDD-and-lets-say-Im-using-Rails-since-Cucumber-tests-should-be-written-first-does-that-mean-that-database-design-should-come-in-last)
+- [Magic Tricks of Testing- Sandy Metz](https://www.youtube.com/watch?v=URSWYvyc42M&feature=youtu.be)
+- [TDD is about Design, Not Testing](http://www.drdobbs.com/tdd-is-about-design-not-testing/229218691)
+- [Testing Web Apps with Capybara and Cucumber](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
+- [Tesing an Ember App: Integration and Unit Test](http://pixelhandler.com/blog/2013/08/15/testing-an-ember-application-integration-and-unit-tests/)
+- [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
+- [End-to-End Testing with RSpec Integration Tests and Capybara](http://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
+- [Capybara Cheatsheet](http://learn.thoughtbot.com/test-driven-rails-resources/capybara.pdf)
+- [TDD that Actually Works](http://blog.jphpsf.com/2012/09/30/OMG-test-driven-development-actually-works/)
+- [Effective Testing with AMD](http://weblog.bocoup.com/effective-unit-testing-with-amd/?utm_source=javascriptweekly&utm_medium=email)
+
+Refactoring
+- [Move Association Behavior to Associated Class](http://pivotallabs.com/activerecord-refactoring-move-association-behavior-to-associated-class/)
+- [Write Private Functions Not Private Methods](http://pivotallabs.com/write-private-functions-not-private-methods/)
+- [Refactoring Without Good Tests](http://blog.codeclimate.com/blog/2013/12/05/refactoring-without-good-tests/)
+- [Refactoring RSPEC Capybara- Chris Spears](http://chrisspearswebdev.blogspot.com/2013/12/refactoring-rspeccapybara-tests-with.html)
+
+Gravatars
+-[Image Requests](http://en.gravatar.com/site/implement/images/)
+
+Guides/Style Guides
+- [Thoughtbot Guides](https://github.com/thoughtbot/guides)
+- [Better Specs: Rspec Goudelines with Ruby](http://betterspecs.org/)
+
+Deployment
+- [Unleash the Puma on Heroku](http://blog.codeship.io/2013/10/16/unleash-the-puma-on-heroku.html)
+
+Express.js
+- [NodeJS, ExpressJS, Jade, and MongoDB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
+- [How to Use EJS in Express](http://robdodson.me/blog/2012/05/31/how-to-use-ejs-in-express/)
+
+Sorting Algorithms
+- [Sorting Algorithm](http://www.sorting-algorithms.com/)
+- [xoaxdotnet](https://www.youtube.com/playlist?list=PL89B61F78B552C1AB)
+- [Algorythmics](https://www.youtube.com/user/AlgoRythmics/videos)
+- [Computer Science in Javascript- Selection Sort](http://www.nczonline.net/blog/2009/09/08/computer-science-in-javascript-selection-sort/)
+
+CS Topics
+- [Towers of Hanoi](http://www.softschools.com/games/logic_games/tower_of_hanoi/)
+
+Jobs
+- [Remote Jobs](https://weworkremotely.com/)
+
+Accessibility
+- [W3 Guide for Accessibility Guidelines](http://www.w3.org/TR/WCAG20/)
